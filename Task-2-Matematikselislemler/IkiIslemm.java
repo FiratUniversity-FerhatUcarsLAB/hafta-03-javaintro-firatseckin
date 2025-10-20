@@ -6,3 +6,4 @@ public class IkiIslem {
         System.out.printf("%.4f\n", sonuc);
     }
 }
+
