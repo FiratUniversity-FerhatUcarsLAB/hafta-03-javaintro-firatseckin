@@ -5,3 +5,4 @@ public class gorev1 {
         System.out.println("Programlama Eglencelidir");
     }
 }
+
