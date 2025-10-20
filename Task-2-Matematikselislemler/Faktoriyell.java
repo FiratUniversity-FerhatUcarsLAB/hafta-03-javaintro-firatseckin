@@ -11,3 +11,4 @@ public class Faktoriyel {
         System.out.println(" = " + sonuc);
     }
 }
+
