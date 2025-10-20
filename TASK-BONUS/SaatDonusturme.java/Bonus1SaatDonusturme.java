@@ -9,3 +9,4 @@ public class Bonus1SaatDonusturme {
         System.out.printf("%d saniye = %d:%02d:%02d\n", toplamSaniye, saat, dakika, saniye);
     }
 }
+
